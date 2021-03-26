@@ -22,6 +22,7 @@
 		- [Дата, время] Start work, "Выбранный файл", "Папка пуста", "Состояние"
 		
 Типы состояний:
+	
 	- Correct files not found! - Файлы есть, но нужных нам не нашлось
 	- Files move - Файлы перенесены
 	- Files with this name have already been copied (Count + x) - Такие же файлы были в папке (количество)
